@@ -1,0 +1,13 @@
+ItemId,ItemName
+1,ottvod_A_paid_in
+2,ottvod_A_paid_out
+3,ottvod_B_paid_in
+4,ottvod_B_paid_out
+5,ottvod_C_paid_in
+6,ottvod_C_free_in
+7,ottvod_C_paid_out
+8,ottvod_C_free_out
+9,cinema
+10,theme_park
+11,fast_food
+12,toy_mall
